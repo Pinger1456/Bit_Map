@@ -1,5 +1,4 @@
-# Создание README.md для проекта Bit_Map на GitHub
-content = """
+
 # Bit Map Message
 
 ## Overview
